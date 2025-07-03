@@ -1,1 +1,1 @@
-# The firist project on Github
+# About my first project on GitHub.
