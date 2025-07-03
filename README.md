@@ -1,2 +1,2 @@
 # Hello_Word
-The firist project
+The firist project on Github
